@@ -1,0 +1,13 @@
+*{
+    background-color: lightgray;
+}
+.class1{
+    background-color: #34495E;
+    color: lightgray;
+    border-radius: 20px;
+    padding: 10px 21px;
+    margin-bottom: 10px;
+}
+.text{
+    background-color: #34495E;
+}
